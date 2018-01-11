@@ -17,7 +17,7 @@ boxes to do such comparison.
 
 The heuristic function we use here is the sum of Manhattan distance that from each box to
 the nearest goal position.
-
+![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
 m: number of boxes, G : one of the goal that is nearest to the box Bi
 When calculating the distance of certain box, we ignore the the obstacle of other boxes which
 simplify our calculation and make sure that the manhattan distance we get here is smaller
